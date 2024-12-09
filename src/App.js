@@ -1,8 +1,8 @@
 import React from "react";
-import Name from "./Name";
-import Price from "./Price";
-import Description from "./Description";
-import Image from "./Image";
+import Name from "./components/Name";
+import Price from "./components/Price";
+import Description from "./components/Description";
+import Image from "./components/Image";
 import tonyImage from "./tony.jpg";
 import "bootstrap/dist/css/bootstrap.min.css";
 
