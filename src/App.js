@@ -70,22 +70,6 @@ const App = () => {
             <Description />
           </div>
         </div>
-        <div className="card" style={cardStyle}>
-          <Image style={imageStyle} />
-          <div className="card-body" style={cardBodyStyle}>
-            <Name />
-            <Price />
-            <Description />
-          </div>
-        </div>
-        <div className="card" style={cardStyle}>
-          <Image style={imageStyle} />
-          <div className="card-body" style={cardBodyStyle}>
-            <Name />
-            <Price />
-            <Description />
-          </div>
-        </div>
       </div>
     </div>
   );
