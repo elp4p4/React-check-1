@@ -11,7 +11,7 @@ const App = () => {
 
   const cardStyle = {
     backgroundColor: "#f0f8ff",
-    border: "none",
+    border: "groove",
     borderRadius: "10px",
     boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
     width: "450px",
